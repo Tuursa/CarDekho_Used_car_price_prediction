@@ -19,3 +19,5 @@ Features present:
         Seats: no. of seats in the car model
 
 Our goal would be to observe and explore the price of car models based on the given features!
+
+# Watch out for typos!
